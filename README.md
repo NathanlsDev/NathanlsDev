@@ -1,14 +1,9 @@
 ## Hello fellow folks 👀 ..
-
-<div>  
-  <a href = "mailto:nathanls.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/NathanlsDev/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
   
 <div align="center">
   <a href="https://github.com/NathanlsDev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NathanlsDev&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanlsDev&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanlsDev&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanlsDev&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -18,7 +13,12 @@
   <img align="right" alt="Nightingale-pic" height="120" style="border-radius:50px;" src="https://i.ibb.co/9hwpsVv/pngwing-comdsf-1.png">
 </div>
   
-  ##
+  ## 
+  
+<div>  
+  <a href = "mailto:nathanls.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/NathanlsDev/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
   
   <div>
  
