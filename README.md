@@ -10,7 +10,7 @@
   <img align="center" alt="Nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Nightingale-pic" height="120" style="border-radius:50px;" src="https://i.ibb.co/9hwpsVv/pngwing-comdsf-1.png">
+  <img align="right" alt="spider-logo" height="120" style="border-radius:50px;" src="https://i.ibb.co/z7LHhTj/b-1.png">
 </div>
   
   ## 
