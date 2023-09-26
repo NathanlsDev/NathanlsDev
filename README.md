@@ -1,21 +1,16 @@
 ## Estatísticas Github:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    width="400"
-    height="200" 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=NathanlsDev&theme=aura&show_icons=true"/>
-</a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img 
-    width="380"
-    height="200"
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanlsDev&theme=aura&show_icons=true&layout=compact&langs_count=8&card_width=320"/>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NathanlsDev&theme=tokyonight&rank_icon=defaut&include_all_commits=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NathanlsDev&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NathanlsDev&theme=tokyonight&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NathanlsDev&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanlsDev&theme=tokyonight&card_width=500px" />
 </a>
+</div>
 
 ## Stack principal:
+
 <div style="display: inline_block">
   <img 
     title="React" 
@@ -81,6 +76,7 @@
 </div>
 
 ### Outras Linguagens:
+
 <div style="display: inline_block">
   <img 
     title="Java" 
@@ -106,6 +102,7 @@
 </div>
 
 ### Contato:
+
 <div>
   <a href="mailto:nathanls.dev@gmail.com" title="Gmail">
     <img 
