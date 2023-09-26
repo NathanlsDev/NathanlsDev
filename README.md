@@ -1,7 +1,6 @@
 ## Estatísticas Github:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
-    width="420" 
     height="200" 
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=NathanlsDev&theme=aura&show_icons=true"/>
@@ -9,7 +8,6 @@
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img 
-    width="400" 
     height="200" align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanlsDev&theme=aura&show_icons=true&layout=compact&langs_count=8&card_width=320"/>
 </a>
@@ -79,7 +77,7 @@
     src="https://i.ibb.co/YNfXm3t/imw-5000-imh-5000-ima-fit-impolicy-Letterbox-imcolor-000000-letterbox-false.gif"/>
 </div>
 
-## Outras Linguagens:
+### Outras Linguagens:
 <div style="display: inline_block">
   <img 
     title="Java" 
@@ -104,7 +102,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 </div>
 
-## Contato:
+### Contato:
 <div>
   <a href="mailto:nathanls.dev@gmail.com" title="Gmail">
     <img 
