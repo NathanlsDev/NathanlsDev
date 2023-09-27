@@ -1,6 +1,9 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=35&color=49ffbf&width=550&height=100&lines=Sup+fellas+i'm+Nathan+🤙🏾)](https://git.io/typing-svg)
+<p align="center" >
+  <a href="[https://git.io/typing-sv](https://git.io/typing-sv)g"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=35&duration=3000&pause=1000&color=49ffbf&center=true&vCenter=true&width=450&lines=Sup+fellas+i'm+Nathan+🤙🏾;Front-end+Developer+💻" alt="Typing SVG" /></a>
+</p>
+
 <div>
-  <img align="right" alt="IIFE-ilustration" height="250" width="250" style="border-radius:50px;" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+  <img align="right" alt="IIFE-ilustration" height="220" width="200" style="border-radius:50px;" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 </div>
 
 <div>
@@ -13,7 +16,7 @@
   > 🤓 extremamente curioso;
   > 🎧 amo música;
   
-  ! ‍desenvolvedor de front-end
+  ! ‍desenvolvedor front-end
   ! colaborador em comunidades discord (Alura / Juniorland.Tech)
   ! estudante de Engenharia de Software
   [...]
