@@ -1,12 +1,28 @@
+<div>
+  <img align="right" height="250" width="250" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
+  
+  ```diff
+  < Nathan Lima /> 
+  
+  > 🤔 questionador por natureza;
+  > ⚔️ apaixonado por RPG's;
+  > 🤓 extremamente curioso;
+  > 🎧 amo música;
+  
+  ! ‍desenvolvedor de front-end
+  ! colaborador em comunidades discord (Alura / Juniorland.Tech)
+  ! estudante de Engenharia de Software
+  [...]
+```
+</div>
+
 ## Estatísticas Github:
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NathanlsDev&theme=aura&show_icons=true&rank_icon=defaut&include_all_commits=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NathanlsDev&theme=aura&show_icons=true&rank_icon=percentile&include_all_commits=true" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NathanlsDev&theme=aura&show_icons=true&show_icons=true&hide_border=true&border_radius=10" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NathanlsDev&theme=aura&show_icons=true&utcOffset=8" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NathanlsDev&theme=aura&show_icons=true"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanlsDev&theme=aura&show_icons=true&card_width=500px" />
-  <img width="700em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanlsDev&theme=aura&show_icons=truel&hide_border=false">
+  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanlsDev&theme=aura&show_icons=truel&hide_border=false">
 </div>
 
 ## Stack principal:
