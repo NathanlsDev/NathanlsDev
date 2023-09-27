@@ -1,5 +1,4 @@
 <div>
-  <img align="right" height="250" width="250" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
   
   ```diff
   < Nathan Lima /> 
