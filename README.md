@@ -1,11 +1,11 @@
 ## Estatísticas Github:
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NathanlsDev&theme=tokyonight&rank_icon=defaut&include_all_commits=true" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NathanlsDev&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NathanlsDev&theme=tokyonight&utcOffset=8" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NathanlsDev&theme=tokyonight"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanlsDev&theme=tokyonight&card_width=500px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NathanlsDev&&theme=aura&show_icons=true&rank_icon=defaut&include_all_commits=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NathanlsDev&&theme=aura&show_icons=true&show_icons=true&hide_border=true&border_radius=10" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NathanlsDev&&theme=aura&show_icons=true&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NathanlsDev&&theme=aura&show_icons=true"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanlsDev&&theme=aura&show_icons=true&card_width=500px" />
 </a>
 </div>
 
@@ -68,11 +68,6 @@
     height="40" 
     width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img 
-    align="right" 
-    alt="spider-logo" 
-    height="100" 
-    src="https://i.ibb.co/YNfXm3t/imw-5000-imh-5000-ima-fit-impolicy-Letterbox-imcolor-000000-letterbox-false.gif"/>
 </div>
 
 ### Outras Linguagens:
