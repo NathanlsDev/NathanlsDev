@@ -1,3 +1,8 @@
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=35&color=49ffbf&width=550&height=100&lines=Sup+fellas+i'm+Nathan+🤙🏾)](https://git.io/typing-svg)
+<div>
+  <img align="right" alt="IIFE-ilustration" height="250" width="250" style="border-radius:50px;" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+</div>
+
 <div>
   
   ```diff
