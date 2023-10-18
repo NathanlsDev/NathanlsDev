@@ -3,7 +3,7 @@
 </p>
 
 <div>
-  <img align="right" alt="IIFE-ilustration" height="220" width="200" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+  <img align="right" alt="IIFE-ilustration" height="220" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWp4dzlkM2dzOW5pMGl2dGZ0enVmaHlyZjkzNnV0ZmgwdWMwbWNqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rZEzK0KJsXeUm6jTS2/giphy.gif">
 </div>
 
 <div>
