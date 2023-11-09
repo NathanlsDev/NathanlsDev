@@ -17,8 +17,8 @@
   > 🎧 amo música;
   
   ! ‍desenvolvedor front-end
-  ! colaborador em comunidades discord (Alura / Juniorland.Tech)
-  ! estudante de Engenharia de Software
+  ! colaborador em comunidades discord ["Alura", "Juniorland.Tech"];
+  ! graduando em Engenharia de Software;
   [...]
 ```
 </div>
@@ -77,20 +77,6 @@
     height="40" 
     width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img 
-    title="CSS" 
-    align="center" 
-    alt="CSS-logo" 
-    height="40" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img 
-    title="HTML" 
-    align="center" 
-    alt="HTML-logo" 
-    height="40" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 </div>
 
 ### Outras Linguagens:
