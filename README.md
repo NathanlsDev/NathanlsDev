@@ -43,13 +43,13 @@
     width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img 
-    title="TypeScript" 
+    title="JavaScript" 
     align="center" 
-    alt="TypeScript-logo" 
+    alt="Js-logo" 
     height="40" 
     width="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img 
     title="NodeJS" 
     align="center" 
     alt="Node-logo" 
@@ -57,12 +57,12 @@
     width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img 
-    title="JavaScript" 
+    title="TypeScript" 
     align="center" 
-    alt="Js-logo" 
+    alt="TypeScript-logo" 
     height="40" 
     width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>  
   <img 
     title="Tailwind" 
     align="center" 
@@ -77,32 +77,6 @@
     height="40" 
     width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-</div>
-
-### Outras Linguagens:
-
-<div style="display: inline_block">
-  <img 
-    title="Java" 
-    align="center" 
-    alt="Java-logo" 
-    height="30" 
-    width="60" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img 
-    title="Python" 
-    align="center" 
-    alt="Python-logo" 
-    height="30" 
-    width="60" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img 
-    title="C" 
-    align="center" 
-    alt="C-logo" 
-    height="30" 
-    width="60" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 </div>
 
 ### Contato:
