@@ -21,6 +21,18 @@
   ! graduando em Engenharia de Software;
   [...]
 ```
+
+</div>
+
+## Estatísticas Github:
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NathanlsDev&theme=aura&show_icons=true&rank_icon=percentile&include_all_commits=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NathanlsDev&theme=aura&show_icons=true&show_icons=true&hide_border=true&border_radius=10" />
+  <img height="195em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanlsDev&theme=aura&show_icons=true&card_width=500px" />
+  <img height="268em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanlsDev&theme=aura&show_icons=truel&hide_border=false">
+</div>
+
 ## Stack principal:
 
 <div style="display: inline_block">
