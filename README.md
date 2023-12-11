@@ -50,13 +50,6 @@
     height="40" 
     width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img 
-    title="NodeJS" 
-    align="center" 
-    alt="Node-logo" 
-    height="40" 
-    width="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img 
     title="TypeScript" 
     align="center" 
