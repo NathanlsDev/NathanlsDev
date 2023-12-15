@@ -32,12 +32,14 @@
   <img height="195em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanlsDev&theme=aura&show_icons=true&card_width=500px" />
 </div>
 
-<div>
-  <img align="right" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanlsDev&theme=aura&show_icons=truel&hide_border=false">
-  
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/818686819796779059?theme=aura&animated=true&borderRadius=6px&idleMessage=Probably+doing+something+else...)](https://discord.com/users/818686819796779059)
+<div align="center">
+  <img style="width: 550px;  align=left" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanlsDev&theme=aura&show_icons=truel&hide_border=false">
+
+  <a href="https://discord.com/users/818686819796779059">
+    <img style="width: 425px;" src="https://lanyard-profile-readme.vercel.app/api/818686819796779059?theme=aura&animated=true&borderRadius=6px&idleMessage=Probably+doing+something+else...">
+  </a>
 </div>
-  
+
 
 ## Stack principal:
 
