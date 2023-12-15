@@ -33,7 +33,7 @@
 </div>
 
 <div>
-  <img align="left" height="80em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanlsDev&theme=aura&show_icons=truel&hide_border=false">
+  <img align="left" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanlsDev&theme=aura&show_icons=truel&hide_border=false">
   
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/818686819796779059?theme=aura&animated=true&borderRadius=6px&idleMessage=Probably+doing+something+else...)](https://discord.com/users/818686819796779059)
 </div>
