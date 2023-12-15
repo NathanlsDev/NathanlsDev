@@ -33,10 +33,10 @@
 </div>
 
 <div align="center">
-  <img style="width: 550px;  align=left" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanlsDev&theme=aura&show_icons=truel&hide_border=false">
+  <img style="width: 450px;  align=left" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanlsDev&theme=aura&show_icons=truel&hide_border=false">
 
   <a href="https://discord.com/users/818686819796779059">
-    <img style="width: 425px;" src="https://lanyard-profile-readme.vercel.app/api/818686819796779059?theme=aura&animated=true&borderRadius=6px&idleMessage=Probably+doing+something+else...">
+    <img style="width: 325px;" src="https://lanyard-profile-readme.vercel.app/api/818686819796779059?theme=aura&animated=true&borderRadius=6px&idleMessage=Probably+doing+something+else...">
   </a>
 </div>
 
