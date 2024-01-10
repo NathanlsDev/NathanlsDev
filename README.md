@@ -24,7 +24,7 @@
 
 </div>
 
-## Estatísticas Github:
+## Estatísticas Github: ![](https://komarev.com/ghpvc/?username=NathanlsDev&color=a277ff&style=flat-square&abbreviated=true)
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NathanlsDev&theme=aura&show_icons=true&rank_icon=percentile&include_all_commits=true" />
