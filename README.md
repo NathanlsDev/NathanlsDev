@@ -3,7 +3,7 @@
 </p>
 
 <div>
-  <img align="right" alt="Love Death Robots" height="220" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25tNXlzZDJhcnNmN2J6ZG45ZHF6NnduajNjbXBoemNpajU1bmYzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZnSumPLQnavHTFFGAN/giphy.gif">
+  <img align="right" alt="Love Death Robots" height="248" width="200" src="https://im2.ezgif.com/tmp/ezgif-2-545602f12b.gif">
 </div>
 
 <div>
