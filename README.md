@@ -3,7 +3,7 @@
 </p>
 
 <div>
-  <img align="right" alt="Love Death Robots" height="220" width="200" src="https://im2.ezgif.com/tmp/ezgif-2-545602f12b.gif">
+  <a href="https://twitter.com/Vixit_art/status/1746354437642195447" target="_blank"><img align="right" alt="Love Death Robots" height="220" width="200" src="https://im2.ezgif.com/tmp/ezgif-2-545602f12b.gif" alt="pixel art of a backpack next a tree"></a>
 </div>
 
 <div>
