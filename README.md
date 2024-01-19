@@ -3,7 +3,7 @@
 </p>
 
 <div>
-  <img align="right" alt="Love Death Robots" height="200" width="200" src="https://im2.ezgif.com/tmp/ezgif-2-545602f12b.gif">
+  <img align="right" alt="Love Death Robots" height="220" width="200" src="https://im2.ezgif.com/tmp/ezgif-2-545602f12b.gif">
 </div>
 
 <div>
