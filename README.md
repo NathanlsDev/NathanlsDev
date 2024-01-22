@@ -16,9 +16,9 @@
   > 🤓 extremamente curioso;
   > 🎧 amo música;
   
-  ! ‍desenvolvedor front-end
-  ! colaborador em comunidades discord ["Alura", "Juniorland.Tech"];
+  ! ‍desenvolvedor front-end;
   ! graduando em Engenharia de Software;
+  ! o melhor dev do meu quarto;
   [...]
 ```
 
