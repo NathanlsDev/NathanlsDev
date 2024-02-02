@@ -27,8 +27,8 @@
 ## Estatísticas Github: ![](https://komarev.com/ghpvc/?username=NathanlsDev&color=a277ff&style=flat-square&abbreviated=true)
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NathanlsDev&theme=aura&show_icons=true&rank_icon=percentile&include_all_commits=true" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NathanlsDev&theme=aura&show_icons=true&show_icons=true&hide_border=true&border_radius=10" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NathanlsDev&theme=aura&show_icons=true&rank_icon=percentile&include_all_commits=true" />  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanlsDev&layout=compact&langs_count=7&theme=aura&show_icons=true&show_icons=true&hide_border=true&border_radius=10"/>
   <img height="195em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanlsDev&theme=aura&show_icons=true&card_width=500px" />
 </div>
 
