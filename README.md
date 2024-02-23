@@ -71,7 +71,7 @@
     alt="Tailwind-logo" 
     height="40" 
     width="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
   <img 
     title="SASS" 
     align="center" 
