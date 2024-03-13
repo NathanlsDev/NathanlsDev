@@ -3,8 +3,10 @@
 </p>
 
 <div>
-  <a href="https://twitter.com/Vixit_art/status/1746354437642195447" target="_blank"><img align="right" height="220" width="200" src="https://i.ibb.co/dQ5206D/ezgif-1-0a106189dd.gif" alt="pixel art of a backpack next a tree"></a>
+  <a href="https://twitter.com/i/status/1755268559310074310" target="_blank"><img align="right" height="220" width="200" src="https://i.ibb.co/v31TmBJ/ezgif-2-bc9a83b2cc.gif" alt="pixel art gif"></a>
 </div>
+
+
 
 <div>
   
