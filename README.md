@@ -3,7 +3,7 @@
 </p>
 
 <div>
-  <a href="https://twitter.com/i/status/1755268559310074310" target="_blank"><img align="right" height="220" width="200" src="https://i.ibb.co/v31TmBJ/ezgif-2-bc9a83b2cc.gif" alt="pixel art gif"></a>
+  <a href="https://twitter.com/Mr3sk/status/1749478881944363220" target="_blank"><img align="right" height="220" width="200" src="https://i.ibb.co/v31TmBJ/ezgif-2-bc9a83b2cc.gif" alt="pixel art gif"></a>
 </div>
 
 
